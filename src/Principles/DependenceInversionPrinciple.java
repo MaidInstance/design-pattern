@@ -1,12 +1,12 @@
 package Principles;
 
 interface CPU{
-     void run();
+    void run();
 }
 
 
 interface GPU{
-     void run();
+    void run();
 }
 
 public class DependenceInversionPrinciple {
